@@ -6,3 +6,5 @@
   3. Starts timer when user opens a site or app
   4. Saves data to Json file
   5. Runs in background
+
+You can copy and paste the cody in your programming software and run to use this TimeTracker
